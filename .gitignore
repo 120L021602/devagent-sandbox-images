@@ -1,0 +1,12 @@
+# 大体积镜像产物（13GB tar.gz，超出 GitHub 单文件 100MB 限制）
+kylin-sandbox-1016/images/
+
+# 浏览器持久化数据（含 cookie / 登录态，敏感）
+kylin-sandbox-1016/chrome-persistent-data/
+
+# 嵌套 git 仓库（自带独立远端和历史，应单独推送）
+kylin-sandbox-1016/verl-devagent/
+
+# 系统杂项
+Thumbs.db
+.DS_Store
